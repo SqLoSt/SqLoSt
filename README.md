@@ -1,4 +1,20 @@
-All rights reserved to SqLoSt © 2022-2050
-well im sqlost all is that ig..
-im interested in linux tools etc and generators , sql database etc and exploits
-so its all
+### Who am i?
+**Well hello there , most people calls me __Sq__ or SqLoSt, so there is some information about me :**
+- Im half Turkish half Russian
+- im interested in coding alot , like a nerdy boy yuh-...
+- I've worked with some studios as an Translator/Tester before.
+
+### Language's
+- Python , C# (learning) 
+- (styling languages) Html , css , bash
+
+### Works
+- 2017-2018 Mitrekcah team
+- 2018-2019 Rht , Respectable hack team
+- 2019-2020 My own team (T.H.O)
+- 2022-???? My own team (И.о.Н)
+##
+- Cylinder studios : Translator
+- MAGNİFİER : Coder
+- F² Games : Bug tester
+
