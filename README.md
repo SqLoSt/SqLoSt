@@ -18,3 +18,8 @@
 - MAGNİFİER : Coder
 - F² Games : Bug tester
 
+
+### Contacts :
+- ***Sqlost#8883*** - Discord , Account may be disabled.
+- **Genel [discord sunucumuz](https://discord.gg/fXJgZVGbE6)**
+- **Bizim [Youtube](https://youtube.com/channel/UCPXh6NqhJZpl_2oSpatFOFw) kanalımız**
