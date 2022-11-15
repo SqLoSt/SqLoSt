@@ -14,7 +14,7 @@
 - 2019-2020 My own team (T.H.O)
 - 2022-???? My own team (И.о.Н)
 ##
-- Cylinder studios : Translator
+- Cylinder studios : Translator , Contrubutor 
 - MAGNİFİER : Coder
 - F² Games : Bug tester
 
