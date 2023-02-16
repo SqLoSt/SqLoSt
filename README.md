@@ -21,5 +21,5 @@
 
 ### Contacts :
 - ***Sqlost#8883*** - Discord , Account may be disabled.
-- **Genel [discord sunucumuz](https://discord.gg/fXJgZVGbE6)**
+- **Genel [Discord sunucumuz Bakımda](https://github.com/SqLoSt)**
 - **Bizim [Youtube](https://youtube.com/channel/UCPXh6NqhJZpl_2oSpatFOFw) kanalımız**
