@@ -4,6 +4,12 @@
 - im interested in coding alot , like a nerdy boy yuh-...
 - I've worked with some studios as an Translator/Tester/Coder before.
 
+> Status
+![Sq's GitHub stats](https://github-readme-stats.vercel.app/api?username=SqLoSt&show_icons=true&theme=midnight-purple)
+
+> Used languages on projects
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SqLoSt&layout=compact&theme=midnight-purple)](https://github.com/SqLoSt)
+
 ##### 🤤 | Language(s) i know
 
 - Python
@@ -31,9 +37,11 @@
 
 ##### 💸 | Donate!
 
-**BTC** : 387ckFiczhxCCGSBp68oyTkFqAAdnux3Qk
-**ETHERIUM** : 0x34cba27c928bc9c57418dda8390279619e4e5594
-**USD Coin** : 0x34cba27c928bc9c57418dda8390279619e4e5594
+• **BTC** : 387ckFiczhxCCGSBp68oyTkFqAAdnux3Qk
+
+• **ETHERIUM** : 0x34cba27c928bc9c57418dda8390279619e4e5594
+
+• **USD Coin** : 0x34cba27c928bc9c57418dda8390279619e4e5594
 
 ###### 📬 | Some Projects
 • ***[Hid Url](https://github.com/SqLoSt/HIDURL)*** is a project that can make any link look like any domain!
