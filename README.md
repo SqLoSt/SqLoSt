@@ -15,7 +15,7 @@
 - Python
 - C# (learning)
 - Html , css , JavaScript
-- Bash
+- Shell (Bash)
 - SQL
 - BDJS
 - .MD (i know its not a coding language at all just shut.)
