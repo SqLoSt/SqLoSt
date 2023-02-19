@@ -1,3 +1,9 @@
+![](https://komarev.com/ghpvc/?username=SqLoSt&color=blueviolet) 
+
+##### 🥖 | Progress bars
+[![c# progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=csharp&value=98)](https://github.com/SqLoSt)
+[![C++ progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=cwc&value=25)](https://github.com/SqLoSt)
+
 ##### ℹ️ | Who am i?
 **Well hello there , most people calls me __Sq__ or SqLoSt, so there is some information about me :**
 - Im half Turkish half Russian
@@ -10,15 +16,22 @@
 > Used languages on projects
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SqLoSt&layout=compact&theme=midnight-purple)](https://github.com/SqLoSt)
 
-##### 🤤 | Language(s) i know
+##### 🤤 | Language(s)/markdowns/sheetings i know
 
-- Python
-- C# (learning)
-- Html , css , JavaScript
-- Shell (Bash)
-- SQL
-- BDJS
-- .MD (i know its not a coding language at all just shut.)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=markdown)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=csharp)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=shell)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=JavaScript)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=SQL)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=BDJS)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=HTML)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=CSS)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Json)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Java)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Ruby)]()
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=C)]()
+
 
 ##### ☕ | Works
 
