@@ -14,7 +14,7 @@
 ![Sq's GitHub stats](https://github-readme-stats.vercel.app/api?username=SqLoSt&show_icons=true&theme=midnight-purple)
 
 > Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=SqLoSt&theme=radical&row=3&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SqLoSt&theme=radical)
 
 > Used languages on projects
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SqLoSt&layout=compact&theme=midnight-purple)](https://github.com/SqLoSt)
