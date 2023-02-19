@@ -66,8 +66,8 @@
 
 • ***[Look , im a busy and non patient person , ofc i won't list my all projects here , just look up at this link.](https://github.com/SqLoSt?tab=repositories)***
 
-###### 🤝 | Contacts 
+#### ☕ | Contact us!
+- ***SqLoSt#6660*** - Discord May be  Closed , preferred option
+- **Our [discord server](https://discord.gg/aV2XGhRvup)** 
+- **Our [YouTube Channel](https://youtube.com/channel/UCPXh6NqhJZpl_2oSpatFOFw)**
 
-- ***Sqlost#6660*** - Discord , Account may be disabled.
-- **Genel [Discord sunucumuz Bakımda](https://github.com/SqLoSt)**
-- **Bizim [Youtube](https://youtube.com/channel/UCPXh6NqhJZpl_2oSpatFOFw) kanalımız**
