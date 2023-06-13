@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=SqLoSt&color=blueviolet) 
 
 ##### 🥖 | Progress bars
-[![c# progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=csharp&value=98)](https://github.com/SqLoSt)
 [![C++ progressbar](https://readme-components.vercel.app/api?component=linearprogress&skill=cwc&value=25)](https://github.com/SqLoSt)
 
 ##### ℹ️ | Who am i?
