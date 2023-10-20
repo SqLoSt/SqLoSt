@@ -6,8 +6,8 @@
 ##### ℹ️ | Who am i?
 **Well hello there , most people calls me __Sq__ or SqLoSt, so there is some information about me :**
 - Im half Turkish half Russian
-- im interested in coding alot , like a nerdy boy yuh-...
-- I've worked with some studios as an Translator/Tester/Coder before.
+- im interested in coding & cybersecutity alot.
+- I've worked with some studios as an Translator/Tester/Programmer/Software engineer before.
 
 > Status
 ![Sq's GitHub stats](https://github-readme-stats.vercel.app/api?username=SqLoSt&show_icons=true&theme=midnight-purple)
@@ -37,17 +37,21 @@
 
 ##### ☕ | Works
 
-> Teams 
-- 2017-2018 Mitrekcah team
-- 2018-2019 Rht , Respectable hack team
+> Teams
+- 2016 - 2017 Fake A.Y.T (Rookie)
+- 2017-2018 Mitrekcah team (intelligence)
+- 2018-2019 Rht , Respectable hack team (intelligence & attack team)
 - 2019-2020 My own team (T.H.O)
 - 2022-???? My own team (И.о.Н)
-- 2022-2023 QuatroX team
+- 2022-2022 T.A.W - Software team
+- 2022-2023 QuatroX team (2nd Owner & Head programmer)
+- 2023 - 2023 Kamallah (Manager)
+- 2023 - 2023 Codebreakers (Head Admin)
+- 2023 - ??? XECUTEAM (C.E.O)
 
 > Studios
 - Cylinder studios : Translator , Contrubutor 
 - MAGNİFİER : Coder
-- F² Games : Bug tester
 - SqCodes : C.E.O , Developer see our **[Minecraft](https://mcpedl.com/user/sqlost/) addons**
 
 ##### 💸 | Donate!
@@ -66,7 +70,7 @@
 • ***[Look , im a busy and non patient person , ofc i won't list my all projects here , just look up at this link.](https://github.com/SqLoSt?tab=repositories)***
 
 #### ☕ | Contact us!
-- ***SqLoSt#6660*** - Discord May be  Closed , preferred option
-- **Our [discord server](https://discord.gg/aV2XGhRvup)** 
+- ***sqlost*** - Discord May be  Closed , preferred option
+- **Our [discord server (disabled)](https://discord.gg)** 
 - **Our [YouTube Channel](https://youtube.com/channel/UCPXh6NqhJZpl_2oSpatFOFw)**
 
