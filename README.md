@@ -71,6 +71,6 @@
 
 #### ☕ | Contact us!
 - ***sqlost*** - Discord May be  Closed , preferred option
-- **Our [discord server (disabled)](https://discord.gg)** 
+- **Our [discord server (disabled)](https://discord.gg/xecu)** 
 - **Our [YouTube Channel](https://youtube.com/channel/UCPXh6NqhJZpl_2oSpatFOFw)**
 
